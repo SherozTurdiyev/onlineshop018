@@ -1,0 +1,5 @@
+all products page va more btn uchun => https://dummyjson.com/products?limit=${productsCount}
+
+searchCategories   => https://dummyjson.com/products/category/${params}
+
+searchTitle       =>  https://dummyjson.com/products/search?q=${params}
