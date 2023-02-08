@@ -17,6 +17,7 @@ function App() {
 
   return (
     <div>
+       <h2>home page</h2>
         <h2> Single Item</h2>
         <Slider {...settings}>
           <div>
